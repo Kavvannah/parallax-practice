@@ -1,0 +1,12 @@
+.jumbotron{
+    height: 100vh; 
+    background-image: url(/img/anastasia-taioglou-CTivHyiTbFw-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container-fluid{
+    background-color: rgb(55, 88, 85);
+    height: 500px;
+}
