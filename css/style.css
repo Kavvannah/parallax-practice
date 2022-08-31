@@ -10,3 +10,10 @@
     background-color: rgb(55, 88, 85);
     height: 500px;
 }
+h1 {
+    font-family: 'Aboreto', cursive;
+}
+
+button {
+    font-family: 'Qwitcher Grypen', cursive;
+}
