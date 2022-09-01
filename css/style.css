@@ -1,19 +1,51 @@
 .jumbotron{
     height: 100vh; 
-    background-image: url(/img/tabea-schimpf-9-xfYKAI6ZI-unsplash.jpg);
+    background-image: url(/img/clint-patterson-LuvEj39BEq4-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.section{
-    background-color: rgb(55, 88, 85);
-    height: 500px;
-}
+
 h1, nav {
     font-family: 'Aboreto', cursive;
 }
 
 button {
     font-family: 'Qwitcher Grypen', cursive;
+}
+.jumbotron-two {
+        height: 100vh; 
+        background-image: url(/img/david-menidrey-MYRG0ptGh50-unsplash.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+}
+
+.jumbotron-three {
+    height: 100vh; 
+    background-image: url(/img/mark-duffel-VQtBAHVRgvc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.jumbotron-four {
+    height: 100vh; 
+    background-image: url(/img/sabina-music-rich-OJy0JHnoUZQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.jumbotron-five {
+    height: 100vh; 
+    background-image: url(/img/toa-heftiba-ZWKNDOjwito-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
